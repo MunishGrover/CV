@@ -1,2 +1,2 @@
 # CV
-  this is link to my CV : http://relaxed-mayer-ec78e9.bitballoon.com/
+  this is link to my CV : https://quizzical-villani-34f6e9.netlify.com/
